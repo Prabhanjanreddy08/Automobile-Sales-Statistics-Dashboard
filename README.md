@@ -1,6 +1,7 @@
 # Automobile-Sales-Statistics-Dashboard
 
-    https://automobile-sales-statistics-dashboard-prabhanjan08.streamlit.app/
+[Visit the Automobile Sales Dashboard](https://automobile-sales-statistics-dashboard-prabhanjan08.streamlit.app/)
+
 
 This **Automobile Sales Statistics Dashboard** is an interactive data visualization tool built with **Streamlit**. It provides users with insights into **automobile sales data**. The dashboard allows exploration of historical sales trends, the impact of recession periods on sales, and the ability to make predictions for future trends using machine learning models.
 
